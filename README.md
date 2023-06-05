@@ -2,7 +2,8 @@
 This project is about using CNN model to classify capibara and giraffe. During my work on this project I decided to use VGG19 model with data augmentation. I am using ROC curve AUC score to measure performance of my model. I am also using some test cases to figure out some features of prediction and to satisfy my curiosity.\
 I am curently working on my own architecture to get the result I want.
 
-Source of images I used for trainig is: https://www.kaggle.com/datasets/jirkadaberger/zoo-animals. In 'giraffe' images there was a group of images which were frames from one movie. I decided to delete them manually, because I think they would disturb learning process. I also decided to delete some random photos from 'capybara' part to make even amount of data for these two classes.
+Source of images I used for trainig is: https://www.kaggle.com/datasets/jirkadaberger/zoo-animals. In 'giraffe' images there was a group of images which were frames from one movie. I decided to delete them manually, because I think they would disturb learning process. I also decided to delete some random photos from 'capybara' part to make even amount of data for these two classes.\
+You can download all images I am using in this project from my Google Disk: https://drive.google.com/drive/folders/19bklta2Dyj9ry4Lwxt1y2MHV9OZRF6Z-?usp=sharing 
 
 My final goal is to correctly classify photo of giraffe figurine I got from my girlfriend.
 
